@@ -1,2 +1,2 @@
 # my-python-project
-python project
+ My first python project
